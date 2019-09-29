@@ -1,0 +1,8 @@
+{
+  "realm": "master",
+  "auth-server-url": "https://dev.hs.hypermine.in/keycloak/auth",
+  "ssl-required": "external",
+  "resource": "hs-playground",
+  "public-client": true,
+  "confidential-port": 0
+}
